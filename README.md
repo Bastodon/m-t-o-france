@@ -1,6 +1,6 @@
 Bienvenue sur le git de Meteo-France (à ne pas confondre avec Météo France, qui est un site officiel et déposé) !
 
-Pour lancer le projet, executez `ns serve -o` ou `npm run start`
+Pour lancer le projet, executez `ng serve -o` ou `npm run start`
 
 ==========================================================================
 
