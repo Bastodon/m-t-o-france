@@ -1,3 +1,9 @@
+Bienvenue sur le git de Meteo-France (à ne pas confondre avec Météo France, qui est un site officiel et déposé) !
+
+Pour lancer le projet, executez `ns serve -o` ou `npm run start`
+
+==========================================================================
+
 # MeteoFrance
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
