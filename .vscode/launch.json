@@ -3,6 +3,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "meteo-france_ccd621b1"
+    },
+    {
       "name": "ng serve",
       "type": "chrome",
       "request": "launch",
